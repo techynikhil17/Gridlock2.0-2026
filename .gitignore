@@ -3,3 +3,7 @@
 .claude/
 .superpowers/
 .venv
+.ipynb_checkpoints
+create_notebook.py
+catboost_info/
+*.png
