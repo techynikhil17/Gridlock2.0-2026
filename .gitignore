@@ -1,0 +1,5 @@
+#IDE
+*.csv
+.claude/
+.superpowers/
+.venv
